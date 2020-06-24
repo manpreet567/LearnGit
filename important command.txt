@@ -1,0 +1,24 @@
+1 -  git config --global user.email "manpreet.netinnovatus@gmail.com"
+
+2 - git config --global user.name "manpreet"
+
+3 - TO MAKE LOCAL PROJECT TO GIT PROJECT
+  git init
+
+4 - TO CHECK THE STATUS AS WHICH FILE IS IN STAGING AREA
+ git status
+
+5 - TO ADD IN STAGING AREA
+git add -A
+
+6 - FOR SCREENSHOT WE HAVE COMMAND
+git commit -m "index.html & style.css & index.js added"
+
+7 - LINK LOCAL PROJECT FOLDER TO GITHUB REPOSITRY
+git remote add origin https://github.com/manpreet567/LearnGit.git
+
+8 - download github project to our local 
+git clone repoName
+
+9 - to fetch single file from github
+git pull origin master
